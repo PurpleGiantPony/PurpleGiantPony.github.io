@@ -9,7 +9,7 @@ Here is a cool flyer that I made:
 
 <img width="495" alt="Screenshot 2025-05-02 at 4 28 49 PM" src="https://github.com/user-attachments/assets/9561fb6c-0652-42f5-b53c-e91bfb2305fd" />
 
-Here is a picture of my girlfriend: 
+Here is a picture of my girlfriend Sierra: 
 
 <img width="770" alt="Screenshot 2025-05-02 at 4 29 48 PM" src="https://github.com/user-attachments/assets/9b3e1491-a0a8-49cc-9fd0-a0c2b99e3743" />
 
