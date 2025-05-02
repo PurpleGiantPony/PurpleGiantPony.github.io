@@ -6,3 +6,4 @@ I am a multimedia artist from San Francisco, California. I am currently studying
 
 
 
+[BAERflyer.pdf](https://github.com/user-attachments/files/20018013/BAERflyer.pdf)
